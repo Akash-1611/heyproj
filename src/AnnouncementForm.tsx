@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 interface Props {
   onCreate: (payload: { title: string; description?: string }) => Promise<boolean>;
