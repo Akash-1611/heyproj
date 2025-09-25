@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 16px;
+  background: #fafafa;
+  color: #111;
+}
+input,
+textarea,
+button {
+  font-family: inherit;
+  font-size: 14px;
+}
